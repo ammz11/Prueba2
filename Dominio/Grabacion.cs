@@ -103,7 +103,7 @@ namespace ObligatorioP2
         /// <summary>Retorna una representación en texto de la grabación con sus datos principales</summary>
         public override string ToString()
         {
-            return $"Grabación [Id: {Id}, Calidad: {_calidad}, Infraganti: {_capturaInfraganti}, Descripción: {Descripcion}]";
+            return $"Grabación [Id: {Id}, Infraganti: {_capturaInfraganti}, Descripción: {Descripcion}]";
         }
     }
 }
