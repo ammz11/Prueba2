@@ -73,12 +73,12 @@ namespace ObligatorioP2
         {
             if (string.IsNullOrEmpty(_email))
             {
-                throw new Exception("El email no puede estar vacío");
+                throw new Exception("El emailasdasdasd no puede estar vacío");
             }
 
             if (string.IsNullOrEmpty(_contrasena))
             {
-                throw new Exception("La contraseña no puede estar vacía");
+                throw new Exception("La contraseña no puede esasdadasdtar vacía");
             }
 
             if (string.IsNullOrEmpty(_nombre))

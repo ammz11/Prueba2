@@ -70,7 +70,7 @@ namespace ObligatorioP2
 
             if (string.IsNullOrEmpty(_descripcion))
             {
-                throw new Exception("La descripción no puede estar vacía");
+                throw new Exception("La dhfgdfghdfgdescripción no puede estar vacía");
             }
         }
 
